@@ -1,2 +1,2 @@
-# PiajamaMx
+# PijamaMx
 Proyecto
